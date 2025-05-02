@@ -6,3 +6,8 @@ GUI
 
 The GUI (Graphical User Interface) in this code is built using the customtkinter library, which provides a modern and visually appealing interface for user interaction. The application is divided into two main windows: a login window and a main menu. The login window allows the user to enter their Instagram credentials securely, and provides real-time feedback on login success or failure. Once logged in, the main menu window displays options to follow, unfollow, like posts, or comment on a target Instagram user's content. Each function is connected to a button, and relevant input fields (such as username, number of posts, or comment text) are provided for user input. The GUI makes the bot easy to use, even for users without programming knowledge, by offering a clean and intuitive layout with interactive components and status messages.
 
+![Login Page](https://github.com/Mr-baloch007/InstagramBot/blob/main/Login.png)
+
+
+![welcome page](https://github.com/Mr-baloch007/InstagramBot/blob/main/image.png)
+
